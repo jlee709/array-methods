@@ -94,8 +94,10 @@ var owesMoney = friends.slice(3,6);
 
 monthNameString = monthNames.toString();
 
+// indexOf Method
 
-
+var favoriteColor = colors.indexOf('Red');
+var favoriteEvenNumber = mixedNums.indexOf(76);
 
 
 
