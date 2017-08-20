@@ -20,5 +20,9 @@ var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 var nameArray = [];
 nameArray.push("Justin","Lee");
 
-
+// push missing nums
 genericNumberArray.push(6,7,8,9,10);
+
+//pop or take off last elm of arry
+
+var popResult = colors.pop(3);
