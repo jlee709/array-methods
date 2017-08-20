@@ -32,6 +32,31 @@ var popResult = colors.pop(3);
 scrambledWords.reverse('');
 phoneNumber.reverse();
 
-// shift methods
+// shift methods for Que
 
 var nextOrder = orderQueue.shift();
+
+// sorting 
+
+mixedNums.sort();
+mixedWords.sort();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
