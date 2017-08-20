@@ -85,8 +85,10 @@ var updatedOrders = orderQueue.concat({ takeOut: 'beer'}, { takeOut:'whisky'});
  var myFruits = fruitCollection.join(' + ');
 
 
+// slice
 
-
+var favoriteFriends = friends.slice(1,3);
+var owesMoney = friends.slice(3,6);
 
 
 
