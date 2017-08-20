@@ -71,9 +71,12 @@ var orderedValuesNewLength = orderedValues.unshift(1,2,3,4,5,6,7,8,9,10);
 
 
 
+// concat methods 
+//	var new_array = old_array.concat(value1[, value2[, ...[, valueN]]])
 
+var randomThingsArray = genericNumberArray.concat(colors)
 
-
+var updatedOrders = orderQueue.concat({ takeOut: 'beer'}, { takeOut:'whisky'});
 
 
 
