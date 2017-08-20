@@ -64,6 +64,38 @@ orderedValues.splice(0,7);
 
 
 
+// unshift
+// arr.unshift([element1[, ...[, elementN]]])
+
+var orderedValuesNewLength = orderedValues.unshift(1,2,3,4,5,6,7,8,9,10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
