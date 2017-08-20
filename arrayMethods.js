@@ -41,7 +41,11 @@ var nextOrder = orderQueue.shift();
 mixedNums.sort();
 mixedWords.sort();
 
-// splice
+// splice method
+
+// array.splice(start)
+// array.splice(start, deleteCount)
+// array.splice(start, deleteCount, item1, item2, ...)
 
 var notFruit = fruitCollection.splice(1,3);
 
