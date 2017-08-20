@@ -90,7 +90,9 @@ var updatedOrders = orderQueue.concat({ takeOut: 'beer'}, { takeOut:'whisky'});
 var favoriteFriends = friends.slice(1,3);
 var owesMoney = friends.slice(3,6);
 
+// to string
 
+monthNameString = monthNames.toString();
 
 
 
